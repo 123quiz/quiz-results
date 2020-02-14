@@ -6,10 +6,10 @@ let results = `
 
 Squizzed#1:
 1. Thomas Kolåsæter (Norway) 86
-1. Tim Polley (USA) 86
+1. Tim Polley (United States) 86
 3. Pat Gibson (England) 84
-3. Mark Ryder (USA) 84
-5. Steve Perry (USA) 83
+3. Mark Ryder (United States) 84
+5. Steve Perry (United States) 83
 6. Didier Bruyère (France) 81
 7. David Harris (Scotland) 80
 8. Hugh Bennett (England) 79
@@ -23,7 +23,7 @@ Squizzed#1:
 16. Neven Milijić (Croatia) 75
 16. Peter Ediss (England) 75
 16. Barry Simmons (Scotland) 75
-16. Shane Whitlock (USA) 75
+16. Shane Whitlock (United States) 75
 20. Sebastian Klussmann (Germany) 74
 20. Ole Martin Halck (Norway) 74
 20. Ivan Andonov (Serbia) 74
@@ -71,7 +71,7 @@ Squizzed#1:
 58. Gonçalo Pereira (Portugal) 64
 58. Ewan McNaught (Scotland) 64
 58. Filip Tot (Serbia) 64
-58. Jim Mudrak (USA) 64
+58. Jim Mudrak (United States) 64
 68. Doug Wilson (Australia) 63
 68. Sam Visona (Australia) 63
 68. Franz Eichhorn (Austria) 63
@@ -121,7 +121,7 @@ Squizzed#1:
 109. Jørn Gulbrandsen (Norway) 59
 109. José Mário Silva (Portugal) 59
 109. Ailsa Watson (Scotland) 59
-109. Leslie Frates (USA) 59
+109. Leslie Frates (United States) 59
 118. Justin Mckenzie (Australia) 58
 118. Rick Bakker (Australia) 58
 118. Bernhard Hampel-Waffenthal (Austria) 58
@@ -140,7 +140,7 @@ Squizzed#1:
 127. Patrick Carthy (Ireland) 57
 127. César Manta (Portugal) 57
 127. Sofia Santos (Portugal) 57
-127. Jonathan Silverman (USA) 57
+127. Jonathan Silverman (United States) 57
 137. Joseph Oliver (Australia) 56
 137. Raymond Palermo (Australia) 56
 137. Ivan Čović (Croatia) 56
@@ -161,7 +161,7 @@ Squizzed#1:
 146. Luís Domingos (Portugal) 55
 146. Niall Pringle (Scotland) 55
 146. Marcel Zumstein (Switzerland) 55
-146. Fran Bigman (USA) 55
+146. Fran Bigman (United States) 55
 158. Philip Hingston (Australia) 54
 158. Bernd Fruhwirth (Austria) 54
 158. Ivan Ćorić (Croatia) 54
@@ -222,7 +222,7 @@ Squizzed#1:
 207. Mattias Nyman (Finland) 48
 207. Jörg Schenk (Germany) 48
 207. Eva Endresen (Norway) 48
-207. Michael Mudrak (USA) 48
+207. Michael Mudrak (United States) 48
 219. Gojko Prusina (Croatia) 47
 219. Roko Sven Surać (Croatia) 47
 219. Antti Rimpisalo (Finland) 47
@@ -301,14 +301,14 @@ Squizzed#1:
 2019-02
 
 Squizzed#2:
-1. Steve Perry (USA) 83
-2. Tim Polley (USA) 82
+1. Steve Perry (United States) 83
+2. Tim Polley (United States) 82
 3. Pat Gibson (England) 81
 3. Thomas Kolåsæter (Norway) 81
 3. Barry Simmons (Scotland) 81
 6. David Stainer (England) 80
 6. Ole Martin Halck (Norway) 80
-6. Mark Ryder (USA) 80
+6. Mark Ryder (United States) 80
 9. Dorjana Širola (Croatia) 79
 10. Paul Sinha (England) 78
 10. Chris James (Wales) 78
@@ -332,7 +332,7 @@ Squizzed#2:
 27. Oliver Levy (England) 74
 27. Dave McBryan (Ireland) 74
 27. Geir Hjertén Kristiansen (Norway) 74
-27. Shane Whitlock (USA) 74
+27. Shane Whitlock (United States) 74
 33. Issa Schultz (Australia) 73
 33. Jon Inge Kolden (Norway) 73
 35. Haris Mujkić (Croatia) 72
@@ -348,12 +348,12 @@ Squizzed#2:
 41. Dag Olav Rønning (Norway) 71
 41. Gonçalo Pereira (Portugal) 71
 41. Ravikant Avva (Singapore) 71
-41. Brandon Blackwell (USA) 71
+41. Brandon Blackwell (United States) 71
 49. Neven Milijić (Croatia) 70
 49. Dennis Dennis (England) 70
 49. Illar Tõnisson (Estonia) 70
 49. Brage Nordgård (Norway) 70
-49. Chris Goheen (USA) 70
+49. Chris Goheen (United States) 70
 54. Manuel Hobiger (Germany) 69
 54. Finn Eivind Slungård (Norway) 69
 54. José André (Portugal) 69
@@ -365,12 +365,12 @@ Squizzed#2:
 58. Peter Ediss (England) 68
 58. Dhruv Sharma (France) 68
 58. Eric Ziegler (France) 68
-58. Fran Bigman (USA) 68
+58. Fran Bigman (United States) 68
 66. Nicholas Martin (Austria) 67
 66. Mladen Vukorepa (Croatia) 67
 66. Joey Goldman (England) 67
 66. Patrick Carthy (Ireland) 67
-66. Jim Mudrak (USA) 67
+66. Jim Mudrak (United States) 67
 71. Brian Davis (England) 66
 71. David Good (England) 66
 73. Alexander Feist (Austria) 65
@@ -422,7 +422,7 @@ Squizzed#2:
 111. John Hayes (Ireland) 60
 111. Calum Hind (Scotland) 60
 111. Jake Jacobs (Singapore) 60
-111. Leslie Frates (USA) 60
+111. Leslie Frates (United States) 60
 123. Miles Glaspole (Australia) 59
 123. Stijn Gyselinckx (Belgium) 59
 123. Ivan Mijić (Croatia) 59
@@ -442,7 +442,7 @@ Squizzed#2:
 133. Frédéric Faucheux (France) 58
 133. Andy Östreich (Germany) 58
 133. Pierre Frotscher (Germany) 58
-133. Jonathan Silverman (USA) 58
+133. Jonathan Silverman (United States) 58
 143. Katrin Tanzer (Austria) 57
 143. Philipp Andesner (Austria) 57
 143. Ivica Brtan (Croatia) 57
@@ -624,12 +624,12 @@ Squizzed#2:
 
 Squizzed#3:
 1. Pat Gibson (England) 86
-1. Steve Perry (USA) 86
+1. Steve Perry (United States) 86
 3. Thomas Kolåsæter (Norway) 83
-4. Tim Polley (USA) 81
+4. Tim Polley (United States) 81
 5. Dorjana Širola (Croatia) 79
 6. Mark Henry (Ireland) 78
-6. Mark Ryder (USA) 78
+6. Mark Ryder (United States) 78
 8. Mladen Vukorepa (Croatia) 76
 8. Hugh Bennett (England) 76
 10. Clive Dunning (England) 75
@@ -637,10 +637,10 @@ Squizzed#3:
 10. Dave McBryan (Ireland) 75
 10. Ole Martin Halck (Norway) 75
 10. Barry Simmons (Scotland) 75
-10. Shane Whitlock (USA) 75
+10. Shane Whitlock (United States) 75
 16. Kaarel Silmato (Estonia) 74
 16. Eric Ziegler (France) 74
-16. Victoria Groce (USA) 74
+16. Victoria Groce (United States) 74
 19. David Stainer (England) 73
 19. David Harris (Scotland) 73
 21. Perica Živanović (Croatia) 72
@@ -667,7 +667,7 @@ Squizzed#3:
 40. Peter Ediss (England) 68
 40. Vincent Rousset (France) 68
 40. Rob Sutherland (Scotland) 68
-40. Brandon Blackwell (USA) 68
+40. Brandon Blackwell (United States) 68
 46. Boris Rauš (Croatia) 67
 46. Jarle Kvåle (Norway) 67
 48. David Lea (Ireland) 66
@@ -695,7 +695,7 @@ Squizzed#3:
 66. Lucy Reynolds (England) 63
 66. Jorge Páramos (Portugal) 63
 66. Andreas Kröll (Switzerland) 63
-66. Chris Goheen (USA) 63
+66. Chris Goheen (United States) 63
 74. Johannes Eibl (Austria) 62
 74. Lucian Šošić (Croatia) 62
 74. Lukša Benić (Croatia) 62
@@ -745,7 +745,7 @@ Squizzed#3:
 116. Tony Walmsley (England) 58
 116. Will Jones (England) 58
 116. Svein Erik Gransjøen (Norway) 58
-116. Jim Mudrak (USA) 58
+116. Jim Mudrak (United States) 58
 124. Joseph Oliver (Australia) 57
 124. Michael Logue (Australia) 57
 124. Martin Haas (Austria) 57
@@ -757,8 +757,8 @@ Squizzed#3:
 124. Peter Ramsay (Ireland) 57
 124. Stuart McLachlan (England) 57
 124. Mario Abel (Germany) 57
-124. Jeffrey Seguritan (USA) 57
-124. Mykal Duffy (USA) 57
+124. Jeffrey Seguritan (United States) 57
+124. Mykal Duffy (United States) 57
 137. Raymond Palermo (Australia) 56
 137. Dario Ivančić (Croatia) 56
 137. Domagoj Šesto (Croatia) 56
@@ -767,7 +767,7 @@ Squizzed#3:
 137. Thomas Napper (England) 56
 137. Greg Redmond (Ireland) 56
 137. Paul Hughes (Ireland) 56
-137. Vito Cortese (USA) 56
+137. Vito Cortese (United States) 56
 146. Aaran Mohann (Australia) 55
 146. Doug Wilson (Australia) 55
 146. Anamarija Varga (Croatia) 55
@@ -822,7 +822,7 @@ Squizzed#3:
 191. Niels Lindner (Germany) 51
 191. Alexandre Gonçalves (Portugal) 51
 191. César Manta (Portugal) 51
-191. Leslie Frates (USA) 51
+191. Leslie Frates (United States) 51
 201. Chris Murphy (Australia) 50
 201. Philip Hingston (Australia) 50
 201. Philipp Andesner (Austria) 50
@@ -961,11 +961,11 @@ Squizzed#3:
 2019-04
 
 Squizzed#4:
-1. Steve Perry (USA) 88
+1. Steve Perry (United States) 88
 2. Didier Bruyère (France) 86
 3. Pat Gibson (England) 83
 4. David Stainer (England) 82
-4. Tim Polley (USA) 82
+4. Tim Polley (United States) 82
 6. Perica Živanović (Croatia) 79
 6. Clive Dunning (England) 79
 8. Ross Evans (Australia) 78
@@ -985,15 +985,15 @@ Squizzed#4:
 21. Barry Simmons (Scotland) 74
 21. Ivan Andonov (Serbia) 74
 21. Nemanja Čedić (Serbia) 74
-21. Shane Whitlock (USA) 74
-21. Victoria Groce (USA) 74
+21. Shane Whitlock (United States) 74
+21. Victoria Groce (United States) 74
 27. Alexander Feist (Austria) 73
 27. Morana Zibar (Croatia) 73
 27. Neven Milijić (Croatia) 73
 27. Daoud Jackson (England) 73
 27. Lorcan Duff (Ireland) 73
 27. Rodrigo Castro (Portugal) 73
-27. Mark Ryder (USA) 73
+27. Mark Ryder (United States) 73
 34. Lander Frederickx (Belgium) 72
 34. Vincent Rousset (France) 72
 34. David Lea (Ireland) 72
@@ -1013,7 +1013,7 @@ Squizzed#4:
 50. Eric Ziegler (France) 68
 50. Ewan MacAulay (Scotland) 68
 50. Rob Sutherland (Scotland) 68
-50. Chris Goheen (USA) 68
+50. Chris Goheen (United States) 68
 54. Julio Estevez (Argentina) 67
 54. Fabijan Čorak (Croatia) 67
 54. Haris Mujkić (Croatia) 67
@@ -1040,7 +1040,7 @@ Squizzed#4:
 72. John Hayes (Ireland) 64
 72. Dag Olav Rønning (Norway) 64
 72. José André (Portugal) 64
-72. Brandon Blackwell (USA) 64
+72. Brandon Blackwell (United States) 64
 81. Johannes Eibl (Austria) 63
 81. Derk De Graaf (Belgium) 63
 81. David Good (England) 63
@@ -1048,8 +1048,8 @@ Squizzed#4:
 81. Paul Curtayne (Ireland) 63
 81. Truls Flatberg (Norway) 63
 81. Mark Rae (Scotland) 63
-81. Jim Mudrak (USA) 63
-81. Mykal Duffy (USA) 63
+81. Jim Mudrak (United States) 63
+81. Mykal Duffy (United States) 63
 90. Rick Bakker (Australia) 62
 90. Franco Sottopietra (Austria) 62
 90. Brian Davis (England) 62
@@ -1067,7 +1067,7 @@ Squizzed#4:
 103. Dhruv Sharma (France) 61
 103. Tom Mead (Ireland) 61
 103. Calum Hind (Scotland) 61
-103. Jeffrey Seguritan (USA) 61
+103. Jeffrey Seguritan (United States) 61
 108. Tom Keck (Australia) 60
 108. Franz Eichhorn (Austria) 60
 108. Stefan Pletzer (Austria) 60
@@ -1146,10 +1146,10 @@ Squizzed#4:
 172. Kevin Conlon (Ireland) 53
 172. Mik Levin (South Africa) 53
 172. Koen Hartsuiker (Netherlands) 53
-172. Prasann Potdar (UAE) 53
+172. Prasann Potdar (United Arab Emirates) 53
 187. Matis Song (Estonia) 52
-187. Walter Hall (UAE) 52
-187. Phil Groce (USA) 52
+187. Walter Hall (United Arab Emirates) 52
+187. Phil Groce (United States) 52
 190. Simon Guthrie (Australia) 51
 190. Tom Hoschke (Australia) 51
 190. Ivana Lovrek (Croatia) 51
@@ -1158,7 +1158,7 @@ Squizzed#4:
 190. Mario Fernando (India) 51
 190. Paul Hughes (Ireland) 51
 190. Vemund Svendsen (Norway) 51
-190. Leslie Frates (USA) 51
+190. Leslie Frates (United States) 51
 199. Joseph Oliver (Australia) 50
 199. Paul Bakker (Australia) 50
 199. Sam Visona (Australia) 50
@@ -1271,7 +1271,7 @@ Squizzed#4:
 308. Sally Gridley (Australia) 35
 308. Karmen Kaniža (Croatia) 35
 308. Brit Luktvasslimo Nyfors (Norway) 35
-308. Biju James (UAE) 35
+308. Biju James (United Arab Emirates) 35
 312. Hana Vlahov (Croatia) 34
 312. Oto Filipović (Croatia) 34
 312. Vedran Ivičić (Croatia) 34
@@ -1282,7 +1282,7 @@ Squizzed#4:
 316. Gonçalo Pinto (Portugal) 33
 320. Øyvind Johnsen (Norway) 32
 320. Joshua McCune (Scotland) 32
-320. Joseph Howard (USA) 32
+320. Joseph Howard (United States) 32
 323. Fran Geršić (Croatia) 31
 323. Lasse Vesterinen (Finland) 31
 325. Karlo Vadjon (Croatia) 30
@@ -1308,8 +1308,8 @@ Squizzed#4:
 
 Squizzed#5:
 
-1. Steve Perry (USA) 83
-2. Tim Polley (USA) 81
+1. Steve Perry (United States) 83
+2. Tim Polley (United States) 81
 3. Dorjana Širola (Croatia) 78
 3. Kaarel Silmato (Estonia) 78
 5. David Stainer (England) 77
@@ -1320,14 +1320,14 @@ Squizzed#5:
 9. Ole Martin Halck (Norway) 75
 9. Rob Sutherland (Scotland) 75
 12. Aditya Sankaran (India) 74
-12. Steve Chernicoff (USA) 74
+12. Steve Chernicoff (United States) 74
 14. Neven Trgovec (Croatia) 73
 14. Perica Živanović (Croatia) 73
 14. David Good (England) 73
 17. Clive Dunning (England) 72
 17. Stuart Finlayson (Scotland) 72
 17. Nemanja Čedić (Serbia) 72
-17. Shane Whitlock (USA) 72
+17. Shane Whitlock (United States) 72
 21. Mladen Vukorepa (Croatia) 71
 21. Hugh Bennett (England) 71
 21. Martin Wightman (England) 71
@@ -1338,8 +1338,8 @@ Squizzed#5:
 27. Neven Milijić (Croatia) 70
 27. Geir Hjertén Kristiansen (Norway) 70
 30. Kevin Jones (Ireland) 69
-30. Brandon Blackwell (USA) 69
-30. Mark Ryder (USA) 69
+30. Brandon Blackwell (United States) 69
+30. Mark Ryder (United States) 69
 33. Issa Schultz (Australia) 68
 33. Ned Pendleton (England) 68
 33. Dave McBryan (Ireland) 68
@@ -1355,12 +1355,12 @@ Squizzed#5:
 42. Dag Olav Rønning (Norway) 66
 42. Mats Sigstad (Norway) 66
 42. Peter McGrath (Scotland) 66
-42. Joe Trela (USA) 66
+42. Joe Trela (United States) 66
 49. Maj-Britt Christensen (Denmark) 65
 49. David Knapp (England) 65
 49. Paul Steeples (England) 65
 49. Ken Morland (Scotland) 65
-49. Chris Goheen (USA) 65
+49. Chris Goheen (United States) 65
 54. Joseph Oliver (Australia) 64
 54. Šime Gverić (Croatia) 64
 54. Vincent Rousset (France) 64
@@ -1413,9 +1413,9 @@ Squizzed#5:
 96. Nick Perojuc (Romania) 59
 96. David Cruickshank (Scotland) 59
 96. Richard Wilkins (Scotland) 59
-96. Walter Hall (UAE) 59
-96. Jeffrey Seguritan (USA) 59
-96. Mykal Duffy (USA) 59
+96. Walter Hall (United Arab Emirates) 59
+96. Jeffrey Seguritan (United States) 59
+96. Mykal Duffy (United States) 59
 109. Christian Kelly (Australia) 58
 109. Doug Wilson (Australia) 58
 109. Bernd Fruhwirth (Austria) 58
@@ -1446,7 +1446,7 @@ Squizzed#5:
 129. Illar Tõnisson (Estonia) 56
 129. Dhruv Sharma (France) 56
 129. Ross Ferguson (Scotland) 56
-129. Ann Gavaghan (USA) 56
+129. Ann Gavaghan (United States) 56
 140. Alfons Schlofer (Austria) 55
 140. Katrin Tanzer (Austria) 55
 140. Ivica Loina (Croatia) 55
@@ -1465,7 +1465,7 @@ Squizzed#5:
 147. José Mário Silva (Portugal) 54
 147. Stefan Grnčarski (Serbia) 54
 147. Anže Božič (Slovenia) 54
-147. Jim Mudrak (USA) 54
+147. Jim Mudrak (United States) 54
 159. Raymond Palermo (Australia) 53
 159. Bernhard Hampel-Waffenthal (Austria) 53
 159. Filip Drezgić (Croatia) 53
@@ -1506,7 +1506,7 @@ Squizzed#5:
 186. Malcolm Marr (Scotland) 50
 186. Roger Wilkins (Scotland) 50
 186. Vladimir Stanković (Serbia) 50
-186. Leslie Frates (USA) 50
+186. Leslie Frates (United States) 50
 200. Claudia Lösch (Austria) 49
 200. Dalibor Benković (Croatia) 49
 200. Ivan Radun (Croatia) 49
@@ -1536,7 +1536,7 @@ Squizzed#5:
 220. Mark Lynch (Ireland) 46
 220. Eivind Halvorsen (Norway) 46
 220. Mette Thoresen Dybhavn (Norway) 46
-220. Prasann Potdar (UAE) 46
+220. Prasann Potdar (United Arab Emirates) 46
 230. Peter Lochmann (Brazil) 45
 230. Mario Abel (Germany) 45
 230. Stefan Versick (Germany) 45
@@ -1585,7 +1585,7 @@ Squizzed#5:
 274. Karmen Kanižaj (Croatia) 38
 274. Gonçalo Franco (Portugal) 38
 274. Philipp Rohrer (Switzerland) 38
-274. Biju James (UAE) 38
+274. Biju James (United Arab Emirates) 38
 279. Hannes Kölbersberger (Austria) 37
 279. Ingo Streith (Austria) 37
 279. Henri Tervo (Finland) 37
@@ -1617,7 +1617,7 @@ Squizzed#5:
 306. Flavia Dubach (Switzerland) 26
 306. Sonja Kottmann (Switzerland) 26
 309. Toni Radić (Croatia) 25
-309. Sritanu Chakrabarti (UAE) 25
+309. Sritanu Chakrabarti (United Arab Emirates) 25
 311. Amara Trnovac-Shata (Austria) 24
 311. Nino Matoković (Croatia) 24
 311. Rüdiger Stinshoff (Germany) 24
@@ -1631,20 +1631,20 @@ Squizzed#5:
 
 Squizzed#6:
 
-1. Steve Perry (USA) 90
+1. Steve Perry (United States) 90
 2. Kaarel Silmato (Estonia) 81
 2. Thomas Kolåsæter (Norway) 81
-2. Tim Polley (USA) 81
+2. Tim Polley (United States) 81
 5. Clive Dunning (England) 80
-6. Mark Ryder (USA) 79
+6. Mark Ryder (United States) 79
 7. Ivan Andonov (Serbia) 78
-7. Shane Whitlock (USA) 78
+7. Shane Whitlock (United States) 78
 9. Igor Habal (Estonia) 77
 9. Ole Martin Halck (Norway) 77
 11. Dorjana Širola (Croatia) 76
 11. Mark Henry (Ireland) 76
-11. Steve Chernicoff (USA) 76
-14. Victoria Groce (USA) 75
+11. Steve Chernicoff (United States) 76
+14. Victoria Groce (United States) 75
 15. Ross Evans (Australia) 73
 15. Daoud Jackson (England) 73
 15. Pat Gibson (England) 73
@@ -1661,8 +1661,8 @@ Squizzed#6:
 24. Ken Morland (Scotland) 69
 29. David Stainer (England) 68
 29. Ewan MacAulay (Scotland) 68
-29. Brandon Blackwell (USA) 68
-29. Mykal Duffy (USA) 68
+29. Brandon Blackwell (United States) 68
+29. Mykal Duffy (United States) 68
 33. Rob Sutherland (Scotland) 67
 34. Ivan Vulić (Croatia) 66
 34. David Good (England) 66
@@ -1675,13 +1675,13 @@ Squizzed#6:
 39. Rasmus Jørgensen (Denmark) 65
 39. Nick Mills (England) 65
 39. Filip Tot (Serbia) 65
-39. Chris Goheen (USA) 65
+39. Chris Goheen (United States) 65
 46. Haris Mujkić (Croatia) 64
 46. Ned Pendleton (England) 64
 46. Dave McBryan (Ireland) 64
 46. Rodrigo Castro (Portugal) 64
 46. Andrew Frazer (Scotland) 64
-46. Jim Mudrak (USA) 64
+46. Jim Mudrak (United States) 64
 52. Joseph Oliver (Australia) 63
 52. Lovro Jurišić (Croatia) 63
 52. Nic Mortimer (England) 63
@@ -1699,7 +1699,7 @@ Squizzed#6:
 60. Kevin Jones (Ireland) 62
 60. Dag Olav Rønning (Norway) 62
 60. Mik Levin (South Africa) 62
-60. Leslie Shannon (USA) 62
+60. Leslie Shannon (United States) 62
 70. Paul Bakker (Australia) 61
 70. Ivan Čović (Croatia) 61
 70. Mark Cooper (England) 61
@@ -1708,7 +1708,7 @@ Squizzed#6:
 70. David Cruickshank (Scotland) 61
 70. Justin Synclair (Scotland) 61
 70. Anže Božič (Slovenia) 61
-70. Jeffrey Seguritan (USA) 61
+70. Jeffrey Seguritan (United States) 61
 79. Megan McLeod (Canada) 60
 79. Paul Paquet (Canada) 60
 79. Krešimir Melnik (Croatia) 60
@@ -1727,7 +1727,7 @@ Squizzed#6:
 91. John Hayes (Ireland) 58
 91. Eduardo Morais (Portugal) 58
 91. Sérgio Costa (Portugal) 58
-91. Leslie Frates (USA) 58
+91. Leslie Frates (United States) 58
 98. Blair Martin (Australia) 57
 98. Sam Visona (Australia) 57
 98. Boris Rauš (Croatia) 57
@@ -1777,7 +1777,7 @@ Squizzed#6:
 139. Aksel Mygland (Norway) 52
 139. Simon Dick (Scotland) 52
 139. Radmilo Dimitrijević (Serbia) 52
-139. Walter Hall (UAE) 52
+139. Walter Hall (United Arab Emirates) 52
 148. Jamie Anderson (Australia) 51
 148. Bernd Fruhwirth (Austria) 51
 148. Michael Domanig (Austria) 51
@@ -1872,7 +1872,7 @@ Squizzed#6:
 238. Sami Koskenniska (Finland) 37
 238. Michael Hartmann (Germany) 37
 238. Eva Endresen (Norway) 37
-238. Biju James (UAE) 37
+238. Biju James (United Arab Emirates) 37
 243. Angus Creighton (Australia) 36
 243. Debajyoti Adhikari (India) 36
 245. Henri Tervo (Finland) 35
@@ -1903,12 +1903,12 @@ Squizzed#6:
 269. Astrid Spiegel (Germany) 24
 271. Antti Toppari (Finland) 23
 271. Francisco Esteves (Portugal) 23
-273. Ambarish Suresh (UAE) 21
+273. Ambarish Suresh (United Arab Emirates) 21
 274. Renate Sande (Norway) 20
 275. Flavia Dubach (Switzerland) 19
 276. Annemarie Liechti (Switzerland) 18
 276. Sonja Kottmann (Switzerland) 18
-276. Sayooj Satheesh (UAE) 18
+276. Sayooj Satheesh (United Arab Emirates) 18
 279. Richard Stinshoff (Germany) 15
 280. Karin Dincic-Walcher (Switzerland) 12
 
@@ -1916,14 +1916,14 @@ Squizzed#6:
 
 Squizzed#7:
 
-1. Steve Perry (USA) 91
-2. Tim Polley (USA) 90
+1. Steve Perry (United States) 91
+2. Tim Polley (United States) 90
 3. Thomas Kolåsæter (Norway) 87
 4. Ole Martin Halck (Norway) 86
-5. Mark Ryder (USA) 85
+5. Mark Ryder (United States) 85
 6. Ivan Andonov (Serbia) 84
 7. Perica Živanović (Croatia) 83
-8. Shane Whitlock (USA) 82
+8. Shane Whitlock (United States) 82
 9. David Stainer (England) 81
 9. Pat Gibson (England) 81
 11. Igor Habal (Estonia) 79
@@ -1940,12 +1940,12 @@ Squizzed#7:
 22. Barry Simmons (Scotland) 75
 23. Nicholas Martin (Austria) 74
 23. Fabijan Čorak (Croatia) 74
-23. Brandon Blackwell (USA) 74
+23. Brandon Blackwell (United States) 74
 26. Brian Davis (England) 73
 26. Clive Dunning (England) 73
 26. Mark Henry (Ireland) 73
 26. Jack Pollock (Scotland) 73
-26. Joe Trela (USA) 73
+26. Joe Trela (United States) 73
 31. Dave McBryan (Ireland) 72
 31. Kevin Jones (Ireland) 72
 33. Vincent Rousset (France) 71
@@ -1994,8 +1994,8 @@ Squizzed#7:
 75. Lovro Jurišić (Croatia) 63
 75. Lovro Marinović (Croatia) 63
 75. Maj-Britt Christensen (Denmark) 63
-75. Jim Mudrak (USA) 63
-75. Leslie Shannon (USA) 63
+75. Jim Mudrak (United States) 63
+75. Leslie Shannon (United States) 63
 81. Thibaut Charton (Australia) 62
 81. Tom Keck (Australia) 62
 81. Flemming Borg Nielsen (Denmark) 62
@@ -2018,7 +2018,7 @@ Squizzed#7:
 94. Paul Curtayne (Ireland) 60
 94. Mike Clark (Scotland) 60
 94. Andreas Kröll (Switzerland) 60
-94. Leslie Frates (USA) 60
+94. Leslie Frates (United States) 60
 104. David Knapp (England) 59
 104. Tony Walmsley (England) 59
 104. Helmut Hahn (Germany) 59
@@ -2122,7 +2122,7 @@ Squizzed#7:
 198. David Meyers (Germany) 46
 198. Alan Bouse (Ireland) 46
 198. Eivind Halvorsen (Norway) 46
-198. Prasann Potdar (UAE) 46
+198. Prasann Potdar (United Arab Emirates) 46
 208. James Conroy (Ireland) 45
 209. Matthias König (Austria) 44
 209. Rainer Patzl (Austria) 44
@@ -2168,7 +2168,7 @@ Squizzed#7:
 246. Roger Schneble (Switzerland) 35
 251. Dermot Downes (Ireland) 34
 251. Dominic Willi (Switzerland) 34
-251. R Krishnaprasad (UAE) 34
+251. R Krishnaprasad (United Arab Emirates) 34
 254. Matti Ahola (Finland) 33
 254. Lakshmi Natarajan (Switzerland) 33
 256. Bernadette Prinz (Austria) 31
@@ -2183,7 +2183,7 @@ Squizzed#7:
 261. Raphael Zemp (Switzerland) 28
 267. Amanda Gillard (Australia) 27
 267. Tom Byberg Torstensen (Norway) 27
-267. Sritanu Chakrabarti (UAE) 27
+267. Sritanu Chakrabarti (United Arab Emirates) 27
 270. Ali Sabet (Switzerland) 26
 270. Nicolas (Switzerland) 26
 272. Francisco Esteves (Portugal) 25
@@ -2192,7 +2192,7 @@ Squizzed#7:
 275. Gian Ruppanner (Switzerland) 20
 276. Renate Sande (Norway) 19
 277. Marion Dahinden (Switzerland) 18
-277. Sayooj Satheesh (UAE) 18
+277. Sayooj Satheesh (United Arab Emirates) 18
 279. Amara Trnovac-Shata (Austria) 16
 279. Julia Müller (Switzerland) 16
 281. Karin Dincic-Walcher (Switzerland) 13
@@ -2201,9 +2201,9 @@ Squizzed#7:
 2019-08
 
 Squizzed#8:
-1. Tim Polley (USA) 90
+1. Tim Polley (United States) 90
 2. Ole Martin Halck (Norway) 85
-3. Steve Perry (USA) 84
+3. Steve Perry (United States) 84
 4. Didier Bruyère (France) 83
 5. Ronny Swiggers (Belgium) 82
 5. Igor Habal (Estonia) 82
@@ -2216,17 +2216,17 @@ Squizzed#8:
 12. Dorjana Širola (Croatia) 75
 12. Peter Ediss (England) 75
 12. Thomas Kolåsæter (Norway) 75
-12. Shane Whitlock (USA) 75
+12. Shane Whitlock (United States) 75
 17. Kaarel Silmato (Estonia) 74
 17. Vincent Rousset (France) 74
-17. Mark Ryder (USA) 74
-17. Victoria Groce (USA) 74
+17. Mark Ryder (United States) 74
+17. Victoria Groce (United States) 74
 21. Ross Evans (Australia) 73
 21. Clive Dunning (England) 73
 21. David Stainer (England) 73
 21. Aditya Sankaran (India) 73
 21. Barry Simmons (Scotland) 73
-21. Steve Chernicoff (USA) 73
+21. Steve Chernicoff (United States) 73
 27. Šime Gverić (Croatia) 72
 27. Martin Wightman (England) 72
 27. Jon Inge Kolden (Norway) 72
@@ -2238,7 +2238,7 @@ Squizzed#8:
 32. Eric Ziegler (France) 70
 32. Filip Tot (Serbia) 70
 32. Nemanja Čedić (Serbia) 70
-32. Jeffrey Seguritan (USA) 70
+32. Jeffrey Seguritan (United States) 70
 39. Dave McBryan (Ireland) 69
 39. Eivind Moskvil (Norway) 69
 41. Lovro Jurišić (Croatia) 68
@@ -2253,8 +2253,8 @@ Squizzed#8:
 50. Haris Mujkić (Croatia) 64
 50. Rasmus Jørgensen (Denmark) 64
 50. Rob Sutherland (Scotland) 64
-50. Brandon Blackwell (USA) 64
-50. Chris Goheen (USA) 64
+50. Brandon Blackwell (United States) 64
+50. Chris Goheen (United States) 64
 55. Alexander Feist (Austria) 63
 55. Stefan Pletzer (Austria) 63
 55. Maj-Britt Christensen (Denmark) 63
@@ -2305,13 +2305,13 @@ Squizzed#8:
 99. Gert-Jan Dugardein (Belgium) 56
 99. Flemming Borg Nielsen (Denmark) 56
 99. Pierre Frotscher (Germany) 56
-99. Jim Mudrak (USA) 56
+99. Jim Mudrak (United States) 56
 106. Julio Estevez (Argentina) 55
 106. Nikola Paleka (Croatia) 55
 106. David Knapp (England) 55
 106. Jon Breakell (England) 55
 106. Mihajlo Zdravković (Serbia) 55
-106. Leslie Frates (USA) 55
+106. Leslie Frates (United States) 55
 112. Martin Haas (Austria) 54
 112. Paul Paquet (Canada) 54
 112. Ivan Čović (Croatia) 54
@@ -2319,7 +2319,7 @@ Squizzed#8:
 112. John Hayes (Ireland) 54
 112. Aksel Mygland (Norway) 54
 112. Toril Opsahl (Norway) 54
-112. Mykal Duffy (USA) 54
+112. Mykal Duffy (United States) 54
 120. Ivan Marić (Croatia) 53
 120. Pavao Crnko (Croatia) 53
 120. Chris Miller (England) 53
@@ -2377,7 +2377,7 @@ Squizzed#8:
 172. Stijn Gyselinckx (Belgium) 45
 172. David Brown (England) 45
 172. Erik Tjong Kim Sang (Netherlands) 45
-172. Phil Groce (USA) 45
+172. Phil Groce (United States) 45
 178. Dalibor Benković (Croatia) 44
 178. Ivica Loina (Croatia) 44
 178. Josip Luša (Croatia) 44
@@ -2401,7 +2401,7 @@ Squizzed#8:
 190. Niall Pringle (Scotland) 41
 190. Vladimir Stanković (Serbia) 41
 190. Philipp Rohrer (Switzerland) 41
-190. Prasann Potdar (UAE) 41
+190. Prasann Potdar (United Arab Emirates) 41
 202. Glen Odgaard (Denmark) 40
 202. Gary Morewood (England) 40
 202. Mattias Nyman (Finland) 40
@@ -2467,7 +2467,7 @@ Squizzed#8:
 261. Blaž Blažič (Slovenia) 29
 265. Sami Koskenniska (Finland) 28
 265. David Naef (Switzerland) 28
-265. R Krishnaprasad (UAE) 28
+265. R Krishnaprasad (United Arab Emirates) 28
 268. Alexandra Schira (Germany) 27
 268. Anke Mahlmeister (Germany) 27
 268. Debajyoti Adhikari (India) 27
@@ -2481,29 +2481,29 @@ Squizzed#8:
 278. Antti Toppari (Finland) 24
 278. Janis Döbler (Germany) 24
 278. Yvonne Schuster (Germany) 24
-278. Biju James (UAE) 24
-278. Sidharth Suresh (UAE) 24
+278. Biju James (United Arab Emirates) 24
+278. Sidharth Suresh (United Arab Emirates) 24
 283. Sonja Kottmann (Switzerland) 23
 284. Astrid Spiegel (Germany) 20
 284. Sarah Käser (Switzerland) 20
 286. Rachel Natarajan (Switzerland) 19
 287. Karin Dincic-Walcher (Switzerland) 17
 288. Manuel Enz (Switzerland) 15
-289. Sayooj Satheesh (UAE) 13
+289. Sayooj Satheesh (United Arab Emirates) 13
 
 2019-09
 
 Squizzed#9:
-1. Steve Perry (USA) 94
+1. Steve Perry (United States) 94
 2. Pat Gibson (England) 91
-2. Tim Polley (USA) 91
+2. Tim Polley (United States) 91
 4. Daoud Jackson (England) 86
 5. Dorjana Širola (Croatia) 85
-5. Mark Ryder (USA) 85
+5. Mark Ryder (United States) 85
 7. Ole Martin Halck (Norway) 84
 8. Igor Habal (Estonia) 83
 8. Kaarel Silmato (Estonia) 83
-8. Shane Whitlock (USA) 83
+8. Shane Whitlock (United States) 83
 11. Ross Evans (Australia) 82
 11. David Stainer (England) 82
 11. Ivan Andonov (Serbia) 82
@@ -2513,7 +2513,7 @@ Squizzed#9:
 14. Thomas Kolåsæter (Norway) 80
 18. Issa Schultz (Australia) 79
 18. Barry Simmons (Scotland) 79
-18. Chris Goheen (USA) 79
+18. Chris Goheen (United States) 79
 21. Rick Bakker (Australia) 78
 21. Nicholas Martin (Austria) 78
 21. Jon Inge Kolden (Norway) 78
@@ -2525,7 +2525,7 @@ Squizzed#9:
 27. Martin Wightman (England) 77
 27. Eivind Moskvil (Norway) 77
 27. Nemanja Čedić (Serbia) 77
-27. Brandon Blackwell (USA) 77
+27. Brandon Blackwell (United States) 77
 33. Dries Van De Sande (Belgium) 76
 33. Ewan MacAulay (Scotland) 76
 33. Peter Ediss (England) 76
@@ -2533,7 +2533,7 @@ Squizzed#9:
 37. Hugh Bennett (England) 75
 37. Dave McBryan (Ireland) 75
 37. Patrick Carthy (Ireland) 75
-37. Jim Mudrak (USA) 75
+37. Jim Mudrak (United States) 75
 41. Julio Estevez (Argentina) 74
 41. Haris Mujkić (Croatia) 74
 41. Max Espensen (England) 74
@@ -2628,7 +2628,7 @@ Squizzed#9:
 126. Sofia Santos (Portugal) 61
 126. Ilija Dragić (Serbia) 61
 126. Vladimir Stanković (Serbia) 61
-126. Leslie Frates (USA) 61
+126. Leslie Frates (United States) 61
 136. Aaran Mohann (Australia) 60
 136. Simon Guthrie (Australia) 60
 136. Katrin Tanzer (Austria) 60
@@ -2661,7 +2661,7 @@ Squizzed#9:
 163. Mati Räli (Estonia) 57
 163. Svein Erik Gransjøen (Norway) 57
 163. Eduardo Wengorovius (Portugal) 57
-163. Walter Hall (UAE) 57
+163. Walter Hall (United Arab Emirates) 57
 169. Jamie Anderson (Australia) 56
 169. Viktor Steixner (Austria) 56
 169. Gary Morewood (England) 56
@@ -2693,7 +2693,7 @@ Squizzed#9:
 197. Pavao Crnko (Croatia) 51
 197. Hans Arne Forseth (Norway) 51
 197. Arthur Bamberger (Switzerland) 51
-197. Prasann Potdar (UAE) 51
+197. Prasann Potdar (United Arab Emirates) 51
 201. Jasmin Mikolčević (Croatia) 50
 201. Matis Song (Estonia) 50
 201. Malte Dürr (Germany) 50
@@ -2725,7 +2725,7 @@ Squizzed#9:
 228. Eva Barrett (Ireland) 45
 228. Hans Minder (Switzerland) 45
 231. Gonçalo Franco (Portugal) 44
-231. R Krishnaprasad (UAE) 44
+231. R Krishnaprasad (United Arab Emirates) 44
 233. Karla Triplat (Croatia) 43
 233. Marijan Pandžić (Croatia) 43
 233. Janika Pael (Estonia) 43
@@ -2738,7 +2738,7 @@ Squizzed#9:
 241. Pekka Mikkola (Finland) 42
 243. Hannes Kölbersberger (Austria) 41
 243. Lakshmi Natarajan (Switzerland) 41
-243. Biju James (UAE) 41
+243. Biju James (United Arab Emirates) 41
 246. Karlo Vadjon (Croatia) 40
 247. Emma Pihlajamaa (Finland) 39
 247. Stefan Versick (Germany) 39
@@ -2756,7 +2756,7 @@ Squizzed#9:
 259. Renate Sande (Norway) 33
 259. Primož Trilar (Slovenia) 33
 262. Amanda Gillard (Australia) 31
-262. Sreemathy Surender (UAE) 31
+262. Sreemathy Surender (United Arab Emirates) 31
 264. Hans-Walter Zirkwitz (Germany) 30
 265. Urs Stadelmann (Switzerland) 29
 266. Fran Geršić (Croatia) 28
@@ -2770,19 +2770,19 @@ Squizzed#9:
 2019-10
 
 Squizzed#10:
-1. Steve Perry (USA) 89
+1. Steve Perry (United States) 89
 2. David Stainer (England) 85
-3. Shane Whitlock (USA) 83
+3. Shane Whitlock (United States) 83
 4. Mladen Vukorepa (Croatia) 82
 4. Perica Živanović (Croatia) 82
 6. Evan Lynch (England) 81
 6. Pat Gibson (England) 81
 8. Kaarel Silmato (Estonia) 80
 8. Thomas Kolåsæter (Norway) 80
-8. Victoria Groce (USA) 80
+8. Victoria Groce (United States) 80
 11. Fabijan Čorak (Croatia) 79
 11. Geir Hjertén Kristiansen (Norway) 79
-11. Mark Ryder (USA) 79
+11. Mark Ryder (United States) 79
 14. Ivan Andonov (Serbia) 78
 15. Dorjana Širola (Croatia) 77
 15. David Harris (Scotland) 77
@@ -2794,7 +2794,7 @@ Squizzed#10:
 22. Martin Wightman (England) 75
 22. Jon Inge Kolden (Norway) 75
 22. Barry Simmons (Scotland) 75
-22. Brandon Blackwell (USA) 75
+22. Brandon Blackwell (United States) 75
 26. Issa Schultz (Australia) 74
 26. Morana Zibar (Croatia) 74
 26. Aditya Sankaran (India) 74
@@ -2861,7 +2861,7 @@ Squizzed#10:
 80. Jorge Páramos (Portugal) 66
 80. Innis Carson (Scotland) 66
 80. Max Fitz-James (Scotland) 66
-80. Leslie Shannon (USA) 66
+80. Leslie Shannon (United States) 66
 93. Bruce Flaherty (Australia) 65
 93. Ivica Loina (Croatia) 65
 93. Kristian Lasić (Croatia) 65
@@ -2882,7 +2882,7 @@ Squizzed#10:
 107. Jack Alexander (England) 63
 107. Will Jones (England) 63
 107. Gary Stephens (Ireland) 63
-107. Jim Mudrak (USA) 63
+107. Jim Mudrak (United States) 63
 114. Sam Visona (Australia) 62
 114. Bojan Radošević (Croatia) 62
 114. Dalibor Benković (Croatia) 62
@@ -2893,7 +2893,7 @@ Squizzed#10:
 114. Prakhar Gupta (India) 62
 114. Guido ter Stege (Netherlands) 62
 114. Đorđe Blagojević (Serbia) 62
-114. Jeffrey Seguritan (USA) 62
+114. Jeffrey Seguritan (United States) 62
 125. Thomas Doppelreiter (Austria) 61
 125. Ivica Brtan (Croatia) 61
 125. Kristijan Musa (Croatia) 61
@@ -2902,7 +2902,7 @@ Squizzed#10:
 125. Andrew Burford (England) 61
 125. Frank Mengel (Germany) 61
 125. Jörg Hessel (Germany) 61
-125. Leslie Frates (USA) 61
+125. Leslie Frates (United States) 61
 134. Katrin Tanzer (Austria) 60
 134. Paul Paquet (Canada) 60
 134. Toni Velić (Croatia) 60
@@ -2988,13 +2988,13 @@ Squizzed#10:
 212. Alexandra Schira (Germany) 49
 212. Sascha Nolte (Germany) 49
 212. David Schärli (Switzerland) 49
-212. Phil Groce (USA) 49
+212. Phil Groce (United States) 49
 220. Maja Vražić (Croatia) 48
 220. Mislav Maldini (Croatia) 48
 220. David Meyers (Germany) 48
 220. Eva Endresen (Norway) 48
 220. Philipp Rohrer (Switzerland) 48
-220. Prasann Potdar (UAE) 48
+220. Prasann Potdar (United Arab Emirates) 48
 226. Matis Song (Estonia) 47
 226. Pekka Mikkola (Finland) 47
 226. Sami Koskenniska (Finland) 47
@@ -3017,7 +3017,7 @@ Squizzed#10:
 242. Debajyoti Adhikari (India) 42
 242. Mark Lynch (Ireland) 42
 242. Raphael Zemp (Switzerland) 42
-242. Biju James (UAE) 42
+242. Biju James (United Arab Emirates) 42
 249. Dermot Downes (Ireland) 41
 249. Trond Stabell (Norway) 41
 251. Đorđe Nikolić (Serbia) 39
@@ -3040,19 +3040,19 @@ Squizzed#10:
 2019-11
 
 Squizzed#11:
-1. Steve Perry (USA) 90
-2. Tim Polley (USA) 85
+1. Steve Perry (United States) 90
+2. Tim Polley (United States) 85
 3. Igor Habal (Estonia) 84
 4. Ross Evans (Australia) 83
-4. Mark Ryder (USA) 83
+4. Mark Ryder (United States) 83
 6. Perica Živanović (Croatia) 82
-6. Shane Whitlock (USA) 82
+6. Shane Whitlock (United States) 82
 8. Kaarel Silmato (Estonia) 81
 9. Fabijan Čorak (Croatia) 80
 9. Šime Gverić (Croatia) 80
 9. Mark Henry (Ireland) 80
 9. Thomas Kolåsæter (Norway) 80
-9. Victoria Groce (USA) 80
+9. Victoria Groce (United States) 80
 14. Pat Gibson (England) 79
 15. Issa Schultz (Australia) 78
 15. David Stainer (England) 78
@@ -3070,7 +3070,7 @@ Squizzed#11:
 26. Kevin Jones (Ireland) 74
 26. Patrick Carthy (Ireland) 74
 26. Arild Tørum (Norway) 74
-26. Joe Trela (USA) 74
+26. Joe Trela (United States) 74
 32. Bruce Flaherty (Australia) 73
 32. Haris Mujkić (Croatia) 73
 32. Vincent Rousset (France) 73
@@ -3091,7 +3091,7 @@ Squizzed#11:
 49. Gordon McGregor (Australia) 69
 49. David Good (England) 69
 49. Jonathan Elliott (England) 69
-49. Leslie Shannon (USA) 69
+49. Leslie Shannon (United States) 69
 53. Lovro Marinović (Croatia) 68
 53. Dom Tait (England) 68
 55. Doug Wilson (Australia) 67
@@ -3118,7 +3118,7 @@ Squizzed#11:
 67. Filip Tot (Serbia) 65
 67. Ishaan Chugh (Singapore) 65
 67. Ravikant Avva (Singapore) 65
-67. Brian Nieves (USA) 65
+67. Brian Nieves (United States) 65
 80. Igor Čičak (Croatia) 64
 80. Ivan Čović (Croatia) 64
 80. Michael Smith (England) 64
@@ -3136,7 +3136,7 @@ Squizzed#11:
 90. Aksel Mygland (Norway) 63
 90. Jack Pollock (Scotland) 63
 90. Jake Jacobs (Singapore) 63
-90. Jim Mudrak (USA) 63
+90. Jim Mudrak (United States) 63
 90. Anton Høj Jacobsen (Denmark) 63
 90. Rasmus Jørgensen (Denmark) 63
 100. Paul Bakker (Australia) 62
@@ -3216,7 +3216,7 @@ Squizzed#11:
 168. Eivind Halvorsen (Norway) 54
 168. César Manta (Portugal) 54
 168. Eduardo Wengorovius (Portugal) 54
-168. Leslie Frates (USA) 54
+168. Leslie Frates (United States) 54
 178. Miles Glaspole (Australia) 53
 178. Michael Renzler (Austria) 53
 178. Gary Morewood (England) 53
@@ -3270,7 +3270,7 @@ Squizzed#11:
 224. Lars André Gundersen (Norway) 46
 224. César Neves (Portugal) 46
 230. Hilde Arholm (Norway) 45
-230. Prasann Potdar (UAE) 45
+230. Prasann Potdar (United Arab Emirates) 45
 232. Debajyoti Adhikari (India) 44
 232. Trond Stabell (Norway) 44
 234. Filip Matijević (Croatia) 43
@@ -3293,7 +3293,7 @@ Squizzed#11:
 251. Fran Geršić (Croatia) 38
 251. Henri Tervo (Finland) 38
 251. Melk von Flüe (Switzerland) 38
-251. Biju James (UAE) 38
+251. Biju James (United Arab Emirates) 38
 255. David Naef (Switzerland) 37
 256. Martin Völkle (Germany) 36
 257. Reinhard von Faltin (Germany) 35
@@ -3317,18 +3317,18 @@ Squizzed#12:
 1. Perica Živanović (Croatia) 85
 1. Pat Gibson (England) 85
 3. Evan Lynch (England) 84
-3. Steve Perry (USA) 84
+3. Steve Perry (United States) 84
 5. Kaarel Silmato (Estonia) 83
 5. Ole Martin Halck (Norway) 83
 7. Dorjana Širola (Croatia) 81
 7. Daoud Jackson (England) 81
 7. David Stainer (England) 81
-7. Shane Whitlock (USA) 81
+7. Shane Whitlock (United States) 81
 11. Hugh Bennett (England) 80
 11. Thomas Kolåsæter (Norway) 80
 11. Nemanja Čedić (Serbia) 80
-11. Mark Ryder (USA) 80
-15. Tim Polley (USA) 79
+11. Mark Ryder (United States) 80
+15. Tim Polley (United States) 79
 16. Ross Evans (Australia) 78
 16. Mark Henry (Ireland) 78
 18. Geir Hjertén Kristiansen (Norway) 77
@@ -3344,7 +3344,7 @@ Squizzed#12:
 28. David Good (England) 72
 28. Dave McBryan (Ireland) 72
 28. Rob Sutherland (Scotland) 72
-28. Joe Trela (USA) 72
+28. Joe Trela (United States) 72
 32. Haris Mujkić (Croatia) 71
 32. Ned Pendleton (England) 71
 32. Aditya Sankaran (India) 71
@@ -3363,7 +3363,7 @@ Squizzed#12:
 47. Rick Bakker (Australia) 68
 47. Kevin Jones (Ireland) 68
 47. Rodrigo Castro (Portugal) 68
-47. Leslie Shannon (USA) 68
+47. Leslie Shannon (United States) 68
 51. Issa Schultz (Australia) 67
 51. Johannes Eibl (Austria) 67
 51. Martin Haas (Austria) 67
@@ -3412,7 +3412,7 @@ Squizzed#12:
 94. Tomislav Bleiziffer (Croatia) 61
 94. Klaus Otto Nagorsnik (Germany) 61
 94. Sigmund Straumsnes (Norway) 61
-94. Jeffrey Seguritan (USA) 61
+94. Jeffrey Seguritan (United States) 61
 100. Roko Sven Surać (Croatia) 60
 100. Esben Holdt (Denmark) 60
 100. José Mário Silva (Portugal) 60
@@ -3445,7 +3445,7 @@ Squizzed#12:
 124. Indrek Salis (Estonia) 56
 124. Stefan Versick (Germany) 56
 124. Mik Levin (South Africa) 56
-124. Prasann Potdar (UAE) 56
+124. Prasann Potdar (United Arab Emirates) 56
 133. Bruce Flaherty (Australia) 55
 133. Simone Streith (Austria) 55
 133. Dalibor Benković (Croatia) 55
@@ -3489,7 +3489,7 @@ Squizzed#12:
 164. Vítor Coelho (Portugal) 51
 164. Andrew Townsley (Scotland) 51
 164. Philipp Rohrer (Switzerland) 51
-164. Jim Mudrak (USA) 51
+164. Jim Mudrak (United States) 51
 177. Patrick Lainer (Austria) 50
 177. Dražen Cukina (Croatia) 50
 177. Pedro Goulão (Portugal) 50
@@ -3546,18 +3546,18 @@ Squizzed#12:
 226. Igor Filipović (Serbia) 41
 226. David Naef (Switzerland) 41
 226. Raphael Zemp (Switzerland) 41
-226. Krishnaprasad Ramabhadran (UAE) 41
+226. Krishnaprasad Ramabhadran (United Arab Emirates) 41
 234. Chris Blackwell (England) 40
 234. Gary Morewood (England) 40
 234. Debajyoti Adhikari (India) 40
-234. Biju James (UAE) 40
+234. Biju James (United Arab Emirates) 40
 238. Dušan Torbica (Serbia) 39
 239. Bernadette Prinz (Austria) 38
 239. Maja Vražić (Croatia) 38
 239. Gonçalo Franco (Portugal) 38
 239. Simon Dick (Scotland) 38
 239. Jonas von Flüe (Switzerland) 38
-239. Manjula Sreekumar (UAE) 38
+239. Manjula Sreekumar (United Arab Emirates) 38
 245. Fran Geršić (Croatia) 37
 245. Hana Vlahov (Croatia) 37
 247. Henri Tervo (Finland) 35
@@ -3576,7 +3576,323 @@ Squizzed#12:
 260. Hasan Zamil (Australia) 24
 260. Karin Dincic-Walcher (Switzerland) 24
 
+2020-01
+
+Squizzed#1:
+1. Steve Perry (United States) 86
+2. Thomas Kolåsæter (Norway) 80
+3. Clive Dunning (England) 79
+3. Ole Martin Halck (Norway) 79
+3. Pat Gibson (England) 79
+3. Tim Polley (United States) 79
+7. Kaarel Silmato (Estonia) 78
+8. Dave McBryan (Ireland) 77
+9. Mladen Vukorepa (Croatia) 76
+10. Adam Yearsley (Australia) 75
+10. Didier Bruyere (France) 75
+10. Victoria Groce (United States) 75
+13. Joey Goldman (England) 74
+13. Peter Ediss (England) 74
+13. Mark Ryder (United States) 74
+16. David Stainer (England) 73
+16. Ravikant Avva (Singapore) 73
+18. Rob Sutherland (Scotland) 72
+18. Barry Simmons (Scotland) 72
+20. Issa Schultz (Australia) 71
+20. Brian Davis (England) 71
+20. Aditya Sankaran (India) 71
+20. Arild Tørum (Norway) 71
+20. Eivind Moskvil (Norway) 71
+20. Andrew Frazer (Scotland) 71
+26. Evan Lynch (England) 70
+26. Guido ter Stege (Netherlands) 70
+26. Geir Hjerten Kristiansen (Norway) 70
+26. Ivan Andonov (Serbia) 70
+30. David Good (England) 69
+30. Hugh Bennett (England) 69
+30. Shane Whitlock (United States) 69
+33. Dorjana Širola (Croatia) 68
+33. Perica Živanović (Croatia) 68
+33. Martin Wightman (England) 68
+33. Illar Tõnisson (Estonia) 68
+33. Vincent Rousset (France) 68
+33. Jack Pollock (Scotland) 68
+33. Žarko Stevanović (Serbia) 68
+40. Eric Ziegler (France) 67
+40. Patrick Carthy (Ireland) 67
+40. Dag Olav Rønning (Norway) 67
+40. Max Fitz-James (Scotland) 67
+44. Ross Evans (Australia) 66
+44. Dom Tait (England) 66
+46. Fabijan Čorak (Croatia) 65
+46. Šime Gverić (Croatia) 65
+46. Dennis Dennis (England) 65
+46. Kevin Jones (Ireland) 65
+46. Rodrigo Castro (Portugal) 65
+46. David Harris (Scotland) 65
+46. Ewan McNaught (Scotland) 65
+53. Lander Frederickx (Belgium) 64
+53. Lovro Jurišić (Croatia) 64
+53. Espen Kibsgård (Norway) 64
+53. Jon Inge Kolden (Norway) 64
+53. Øystein Aadnevik (Norway) 64
+53. Gonçalo Pereira (Portugal) 64
+59. Haris Mujkić (Croatia) 63
+59. Maj-Britt Christensen (Denmark) 63
+59. Mark Cooper (England) 63
+59. Max Espensen (England) 63
+59. Amit De (India) 63
+59. David Lea (Ireland) 63
+59. Ewan MacAulay (Scotland) 63
+66. Nicholas Martin (Austria) 62
+66. Ian Orriss (England) 62
+66. Manuel Hobiger (Germany) 62
+66. Đorđe Blagojević (Serbia) 62
+66. Marcel Zumstein (Switzerland) 62
+71. Tom Keck (Australia) 61
+71. Alexander Feist (Austria) 61
+71. Martin Haas (Austria) 61
+71. Stefan Pletzer (Austria) 61
+71. Nic Mortimer (England) 61
+71. Tony Walmsley (England) 61
+71. Jørn Gulbrandsen (Norway) 61
+71. Leslie Shannon (United States) 61
+79. Paul Paquet (Canada) 60
+79. Dalibor Benković (Croatia) 60
+79. Igor Čičak (Croatia) 60
+79. Marcel Visschers (Netherlands) 60
+79. Ailsa Watson (Scotland) 60
+79. Chris Goheen (United States) 60
+85. Bevan Thulkanam (Australia) 59
+85. Megan McLeod (Canada) 59
+85. Toni Velić (Croatia) 59
+85. Dhruv Sharma (France) 59
+85. Pierre Frotscher (Germany) 59
+85. Andreas Kröll (Switzerland) 59
+91. Blair Martin (Australia) 58
+91. Bruce Flaherty (Australia) 58
+91. Jason Taylor (Australia) 58
+91. Rick Bakker (Australia) 58
+91. Franz Eichhorn (Austria) 58
+91. Domagoj Šesto (Croatia) 58
+91. Paul Curtayne (Ireland) 58
+91. Jorge Páramos (Portugal) 58
+91. José Gomes André (Portugal) 58
+100. Michael Domanig (Austria) 57
+100. Ivan Horvat (Croatia) 57
+100. Lovro Marinović (Croatia) 57
+100. Brian Murphy (Ireland) 57
+100. António Pascoalinho (Portugal) 57
+100. Lathika Niriella (Sri Lanka) 57
+106. Paul Hillman (Australia) 56
+106. Filip Drezgić (Croatia) 56
+106. Marin Pažanin (Croatia) 56
+106. Kevin Bearne (England) 56
+106. Mario Abel (Germany) 56
+106. Greg Redmond (Ireland) 56
+106. Michael-Dennis Biemans (Netherlands) 56
+106. Aksel Mygland (Norway) 56
+106. Finn Eivind Slungård (Norway) 56
+106. Mihajlo Zdravković (Serbia) 56
+106. Jim Mudrak (United States) 56
+117. Simon Guthrie (Australia) 55
+117. Bojan Radošević (Croatia) 55
+117. Anton Høj Jacobsen (Denmark) 55
+117. Andrew Burford (England) 55
+117. Andy Östreich (Germany) 55
+117. Gary Stephens (Ireland) 55
+117. Sesegma Sanzhieva (Netherlands) 55
+117. Andrew Townsley (Scotland) 55
+117. Kristian Kvamsøe (Norway) 55
+126. Doug Wilson (Australia) 54
+126. Paul Bakker (Australia) 54
+126. Johannes Eibl (Austria) 54
+126. Katrin Tanzer (Austria) 54
+126. Karlo Vadjon (Croatia) 54
+126. Pavao Crnko (Croatia) 54
+126. Roko Sven Surać (Croatia) 54
+126. Chris Miller (England) 54
+126. Peter Ramsay (England) 54
+126. Will Jones (England) 54
+126. Toni Latvamäki (Finland) 54
+126. Frédéric Faucheux (France) 54
+126. Leo Howard (Japan) 54
+126. Vemund Svendsen (Norway) 54
+126. Brian Nieves (United States) 54
+141. Gordon McGregor (Australia) 53
+141. Sam Visona (Australia) 53
+141. Tomislav Bleiziffer (Croatia) 53
+141. Jon Breakell (England) 53
+141. John Hayes (Ireland) 53
+141. Sigmund Straumsnes (Norway) 53
+141. César Manta (Portugal) 53
+141. David Cruickshank (Scotland) 53
+149. Thomas Doppelreiter (Austria) 52
+149. Michael Smith (England) 52
+149. Mati Räli (Estonia) 52
+149. José Mário Silva (Portugal) 52
+149. Alan Kennedy (Scotland) 52
+149. Krishnaprasad Ramabhadran (United Arab Emirates) 52
+155. Christian Kelly (Australia) 51
+155. Andreas Stolz (Austria) 51
+155. Danijel Šušnjara (Croatia) 51
+155. Indrek Salis (Estonia) 51
+155. Jörg Schenk (Germany) 51
+155. Anthony Strogen (Ireland) 51
+155. Vitor Coelho (Portugal) 51
+155. David Galiot (Serbia) 51
+163. Philip Hingston (Australia) 50
+163. Udatta Duarah (Australia) 50
+163. Ivan Marić (Croatia) 50
+163. Ivan Žanetić (Croatia) 50
+163. Helmut Hahn (Germany) 50
+163. Marten Mrotzek (Germany) 50
+163. Eivind Halvorsen (Norway) 50
+163. Svein Erik Gransjøen (Norway) 50
+163. Rajan Thambehalli (Switzerland) 50
+163. Leslie Frates (United States) 50
+173. Aaran Mohann (Australia) 49
+173. Alfons Schlofer (Austria) 49
+173. Simone Streith (Austria) 49
+173. Stefan Wiborny (Austria) 49
+173. Geert Bollen (Belgium) 49
+173. Ivica Loina (Croatia) 49
+173. Anders Pedersen (Denmark) 49
+173. Esben Christiansen (Denmark) 49
+173. Gary Morewood (England) 49
+173. Luís Domingos (Portugal) 49
+173. Nedeljko Šujica (Serbia) 49
+173. Jake Jacobs (Singapore) 49
+173. Vito Cortese (United States) 49
+186. Bernd Fruhwirth (Austria) 48
+186. Mislav Maldini (Croatia) 48
+186. Freja Liva Lind (Denmark) 48
+186. Pekka Kivari (Finland) 48
+186. Jonas Drossart (Germany) 48
+186. Malte Dürr (Germany) 48
+186. Pedro Morais Martins (Portugal) 48
+186. Hasini Minuwanpitiya (Sri Lanka) 48
+186. Jinani Weerakon (Sri Lanka) 48
+195. Claudia Lösch (Austria) 47
+195. Ingo Streith (Austria) 47
+195. Fran Geršić (Croatia) 47
+195. Josip Paškov (Croatia) 47
+195. Graham Evans (England) 47
+195. Pekka Parhi (Finland) 47
+195. Sascha Nolte (Germany) 47
+195. Pedro Goulão (Portugal) 47
+195. Ilija Dragić (Serbia) 47
+195. Anže Božič (Slovenia) 47
+195. Renate Schär (Switzerland) 47
+206. Jamie Anderson (Australia) 46
+206. Simon Strano (Australia) 46
+206. Bernhard Hampel-Waffenthal (Austria) 46
+206. Michael Renzler (Austria) 46
+206. Paul Geurts (Belgium) 46
+206. Dražen Cukina (Croatia) 46
+206. Jurica Vuco (Croatia) 46
+206. Marin Blažetić (Croatia) 46
+206. Niels Lindner (Germany) 46
+206. Karen Crofton (Ireland) 46
+206. Girish Chandrasekhar (Switzerland) 46
+206. Philipp Rohrer (Switzerland) 46
+218. Patrick Lainer (Austria) 45
+218. Bruno Vojvodić (Croatia) 45
+218. Matis Song (Estonia) 45
+218. Stefan Versick (Germany) 45
+218. Jules Carey (Ireland) 45
+218. Prasann Potdar (United Arab Emirates) 45
+224. Peter Short (Australia) 44
+224. Astrid Rief (Austria) 44
+224. Josip Luša (Croatia) 44
+224. Eva Barrett (Ireland) 44
+224. Gonçalo Pinto (Portugal) 44
+224. Aljaž Božič (Slovenia) 44
+230. Chris MacKinnon (Australia) 43
+230. Tom McCall (Australia) 43
+230. David Brown (England) 43
+230. Edmund Wanner (Germany) 43
+230. Mischa Karth (Germany) 43
+230. Phil Groce (United States) 43
+230. Ben Jones (Wales) 43
+237. Roshan Dattatri (Australia) 42
+237. Daniela Pusskacs (Austria) 42
+237. Bart Peeters (Belgium) 42
+237. Ivica Glavan (Croatia) 42
+237. Frank Mengel (Germany) 42
+237. Tobias Türcke (Germany) 42
+237. Erik Tjong Kim Sang (Netherlands) 42
+237. Andreas Winnem (Norway) 42
+245. Eve Levens (Australia) 41
+245. Glen Taylor (Australia) 41
+245. Bernadette Prinz (Austria) 41
+245. David Gschösser (Austria) 41
+245. Herbert Bleyer (Austria) 41
+245. Luc Hannes (Belgium) 41
+245. Julie Helene Lauritzen (Denmark) 41
+245. Debajyoti Adhikari (India) 41
+245. Simon Dick (Scotland) 41
+245. Dušan Torbica (Serbia) 41
+245. Lakshmi Natarajan (Switzerland) 41
+256. Angus Creighton (Australia) 40
+256. Hannes Kölbersberger (Austria) 40
+256. Henri Tervo (Finland) 40
+256. David Meyers (Germany) 40
+256. Jan Elsing (Germany) 40
+256. Eva Endresen (Norway) 40
+256. João Conduto (Portugal) 40
+256. Primož Trilar (Slovenia) 40
+256. Max Bühler (Switzerland) 40
+265. Chris Blackwell (England) 39
+265. Florian Schmid (Germany) 39
+265. Joseph O’Donoghue (Ireland) 39
+265. Đorđe Nikolić (Serbia) 39
+265. Biju James (United Arab Emirates) 39
+270. Bojan Goja (Croatia) 38
+270. Eduardo Wengorovius (Portugal) 38
+270. Niamh Clarke (Scotland) 38
+270. Isuru Anuradha (Sri Lanka) 38
+274. Martin Smolnig (Austria) 37
+274. Sami Koskenniska (Finland) 37
+274. Barbara Köhler (Germany) 37
+274. Nina Lochmann (Germany) 37
+274. Gonçalo Franco (Portugal) 37
+279. Catherine Lees (Australia) 36
+279. Thomas Dippolt (Austria) 36
+279. Alexander Lobitz (Germany) 36
+279. Reinhard von Faltin (Germany) 36
+283. Greg Leech (Australia) 35
+283. Maja Vražić (Croatia) 35
+283. Emma Pihlajamaa (Finland) 35
+283. Matti Ahola (Finland) 35
+283. Michael Kautz (Germany) 35
+288. Amanda Gillard (Australia) 34
+288. Matthias König (Austria) 34
+288. Joseph Howard (United States) 34
+291. Dermot Downes (Ireland) 33
+291. Trond Stabell (Norway) 33
+293. Caroline Kilga (Austria) 32
+293. João Barbosa (Portugal) 32
+293. Tally Costello (Scotland) 32
+293. Pulasthi Rupasinghe (Sri Lanka) 32
+293. David Naef (Switzerland) 32
+293. Gian Kamlesh (Switzerland) 32
+293. Raphael Zemp (Switzerland) 32
+300. Hasan Zamil (Australia) 30
+300. Saara Tikkakoski (Finland) 30
+300. David Murphy (Ireland) 30
+300. Milan Rašeta (Serbia) 30
+304. Nalaka de Silva (Australia) 29
+304. David Schärli (Switzerland) 29
+306. Amara Trnovac-Shata (Austria) 28
+307. Ravindu Madanayake (Australia) 27
+307. Igor Filipović (Serbia) 27
+309. Fernando Esteves (Portugal) 22
+310. Nele Rediger (Germany) 20
+311. Dhammika Atapattu (Sri Lanka) 16
+
 `;
+//Results from: https://www.facebook.com/Squizzed/
 //This person possibly exists but may be a duplicate of Barbara Köhler and has been removed:
 //2019-07 - 260. Barbara Kohler (Germany) 29
 //2019-11 - 265. Barbara Kohler (Germany) 29
